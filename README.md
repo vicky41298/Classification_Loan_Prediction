@@ -1,1 +1,1 @@
-# Classification_Loan_Prediction
+# Classification of Loan Prediction Data Set Using Logistic Regression
